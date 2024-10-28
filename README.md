@@ -13,7 +13,7 @@ Bienvenue sur mon parcours structuré pour maîtriser l'intelligence artificiell
 ## Table des Projets
 
 ### Phase 1 : Fondations du Machine Learning
-1. [Projet 1 - Prédiction des Prix Immobiliers](./Phase_1/Projet_1_Prediction_Prix_Immobiliers) : Modèle de régression linéaire pour prédire le prix des maisons en Californie.
+1. [Projet 1 - Prédiction des Prix Immobiliers](./Phase 1 - Fondations du Machine Learning/Projet 1 - Prédiction des Prix Immobiliers) : Modèle de régression linéaire pour prédire le prix des maisons en Californie.
 2. Projet 2 - Segmentation de Clients avec K-Means
 3. Projet 3 - Analyse Sentimentale de Reviews de Produits
 
